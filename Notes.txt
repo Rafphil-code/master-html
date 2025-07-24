@@ -4,4 +4,6 @@ Supports :
 - Liens 
 	* mozilla.dev
 	* marksheet.io
+	*openclassroom.com
+	*https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
 	* https://youtu.be/oAkPcpzjDBI?si=_-jv7GqgPVZICIlW
